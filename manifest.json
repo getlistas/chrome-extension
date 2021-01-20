@@ -1,10 +1,21 @@
 {
   "manifest_version": 2,
-  "name": "listas.io",
+  "name": "Listas.io",
   "version": "0.0.1",
   "description": "Digital content consumption manager",
+  "homepage_url": "https://listas.io",
+  "icons": {
+    "16": "assets/icon16.png",
+    "24": "assets/icon24.png",
+    "32": "assets/icon32.png",
+    "120": "assets/icon120.png",
+    "128": "assets/icon128.png"
+  },
   "permissions": ["tabs", "activeTab", "<all_urls>"],
-  "browser_action": {},
+  "browser_action": {
+    "default_title": "Add this page to Listas",
+    "default_icon": "assets/icon120.png"
+  },
   "background": {
     "scripts": ["background.js"],
     "persistent": false
