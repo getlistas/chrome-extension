@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Save to Listas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The easiest way to add content to Listas",
   "homepage_url": "https://listas.io",
   "icons": {
