@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Listas.io",
+  "name": "Save to Listas",
   "version": "0.0.1",
-  "description": "Digital content consumption manager",
+  "description": "The easiest way to add content to Listas",
   "homepage_url": "https://listas.io",
   "icons": {
     "16": "assets/icon16.png",
